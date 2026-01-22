@@ -1,1 +1,1 @@
-# LOG-PROCESSING-SYSTEM-PROJ
+# Distributed Log Processing System
